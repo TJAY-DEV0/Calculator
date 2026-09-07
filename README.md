@@ -28,8 +28,35 @@ simple and customizable.
 
 ## 📸 Screenshots
 
-Screenshots will be added here.
+### 🚀 Loading
 
+<p align="center">
+  <img src="screenshots/loading.jpg" width="250">
+</p>
+
+### ☀️ Light Mode
+
+<p align="center">
+  <img src="screenshots/light-mode.jpg" width="250">
+</p>
+
+### 🌙 Dark Mode
+
+<p align="center">
+  <img src="screenshots/dark-mode.png" width="250">
+</p>
+
+### 🎨 Custom Colors
+
+<p align="center">
+  <img src="screenshots/dark-red-mode.png" width="250">
+</p>
+
+### 🕘 Calculation History
+
+<p align="center">
+  <img src="screenshots/history.jpg" width="250">
+</p>
 ## 📥 Download
 
 The latest APK is available from the **Releases** section.
