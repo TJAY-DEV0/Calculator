@@ -77,7 +77,7 @@ Get the latest version of Calculator from GitHub Releases.
 ## 📋 Requirements
 
 - Android device
-- Compatible Android version
+- Android 9 (API 28) or newer
 - ARM64 device
 
 ## 🚀 Installation
@@ -86,10 +86,13 @@ Get the latest version of Calculator from GitHub Releases.
 2. Install the APK on your Android device.
 3. Open Calculator and start calculating.
 
-## 📄 License
+## 📄 Copyright
 
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for details.
+© 2026 Tijani Usman. All rights reserved.
+
+Calculator is proprietary software. The source code and application
+are not licensed for redistribution, modification, or reuse without
+permission from the copyright holder.
 
 ## 👨‍💻 Developer
 
