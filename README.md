@@ -59,9 +59,15 @@ simple and customizable.
 </p>
 ## 📥 Download
 
-The latest APK is available from the **Releases** section.
+Get the latest version of Calculator from GitHub Releases.
 
-[**Download the latest version →**](../../releases/latest)
+<p align="center">
+
+**[⬇️ Download Calculator](../../releases/latest)**
+
+</p>
+
+> **Note:** Calculator is currently distributed as an APK for Android devices.
 
 ## 🛠️ Built With
 
