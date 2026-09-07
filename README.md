@@ -93,4 +93,12 @@ GitHub: [@TJAY-DEV0](https://github.com/TJAY-DEV0)
 
 ---
 
+## 📄 Copyright
+
+© 2026 Tijani Usman. All rights reserved.
+
+Calculator is proprietary software. The source code and application
+are not licensed for redistribution, modification, or reuse without
+permission from the copyright holder.
+
 ⭐ If you find the project useful, consider giving it a star!
